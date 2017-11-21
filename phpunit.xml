@@ -6,5 +6,9 @@
     <testsuite name="Math">
       <file>tests/MathTest.php</file>
     </testsuite>
+
+    <testsuite name="env">
+      <file>tests/EnvTest.php</file>
+    </testsuite>
   </testsuites>
 </phpunit>
